@@ -1,4 +1,4 @@
-PayU-Integration-Kit-Magento-1.7.0.2
+PayU-Magento
 ====================================
 
-PayU Integration kit for Magento Version 1.7.0.2
+All Plugins and Integration Kits for Magento from PayU-India
